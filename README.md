@@ -39,13 +39,15 @@ Result: The attacker's IP is automatically added to a Windows Defender Firewall 
 
 ### Screenshots (To be added)
 
-    [Upload Image: Wazuh Dashboard showing Rule 40111 alert]
+[Wazuh Dashboard showing Rule 40111 alert]
     <img width="1017" height="669" alt="40111 db" src="https://github.com/user-attachments/assets/90c18830-d690-4330-afdd-0c2971a6e66a" />
 
 
     [Upload Image: Windows Firewall showing the Wazuh Block Rule]
 
-    [Upload Image: Active-responses.log showing the successful execution]
+[Active-responses.log showing the successful execution]
+    <img width="1036" height="766" alt="active res" src="https://github.com/user-attachments/assets/05307875-10f7-47cf-a187-78dcc741f68d" />
+
 
 ## Network Topology
 The lab environment is structured behind a pfSense Firewall, which acts as the network gateway and DHCP server. This architecture ensures that all inter-VM traffic is routed through a central security point, mimicking a real-world corporate network.
