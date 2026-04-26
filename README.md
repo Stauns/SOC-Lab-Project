@@ -41,12 +41,15 @@ Result: The attacker's IP is automatically added to a Windows Defender Firewall 
 
 [Wazuh Dashboard showing Rule 40111 alert]
     <img width="1017" height="669" alt="40111 db" src="https://github.com/user-attachments/assets/90c18830-d690-4330-afdd-0c2971a6e66a" />
+    <img width="1012" height="468" alt="40111" src="https://github.com/user-attachments/assets/afb2a2c7-fdc0-4aaa-ba40-d2dfaccc535c" />
+
 
 
     [Upload Image: Windows Firewall showing the Wazuh Block Rule]
 
 [Active-responses.log showing the successful execution]
     <img width="1036" height="766" alt="active res" src="https://github.com/user-attachments/assets/05307875-10f7-47cf-a187-78dcc741f68d" />
+    
 
 
 ## Network Topology
