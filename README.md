@@ -37,7 +37,7 @@ Logic: When Rule 40111 is triggered, the Wazuh Manager commands the Windows Agen
 
 Result: The attacker's IP is automatically added to a Windows Defender Firewall block rule for 60 seconds, immediately dropping the connection (as verified by a failed ping during the attack).
 
-### Screenshots (To be added)
+### Screenshots
 
 [Wazuh Dashboard showing Rule 40111 alert]
     <img width="1017" height="669" alt="40111 db" src="https://github.com/user-attachments/assets/90c18830-d690-4330-afdd-0c2971a6e66a" />
